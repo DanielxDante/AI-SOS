@@ -1,2 +1,2 @@
-# AI-SOS
+# Project AI-SOS
 Hand Gesture Detection 
